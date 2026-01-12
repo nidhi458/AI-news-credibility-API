@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+news.db
+model.pkl
+vectorizer.pkl
